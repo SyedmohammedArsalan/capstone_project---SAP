@@ -126,7 +126,7 @@ A browser will open automatically. Now you can:
 
 ## 🧑‍💻 Author
 
-- [@syedmohammedarsalanghori](https://github.com/syed Mohammed Arsalan)
+- [@syedmohammedarsalanghori](https://github.com/SyedmohammedArsalan)
 
 ---
 
